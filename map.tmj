@@ -2726,7 +2726,7 @@
          "name":"collisions",
          "opacity":0.59,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
