@@ -2541,7 +2541,7 @@
          "offsety":1600.31215743177,
          "opacity":0.59,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":51,
          "x":0,
          "y":0
